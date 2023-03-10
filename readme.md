@@ -5,7 +5,7 @@ The 2023 version of the two-week Basic Machine Learning for Bioinformatics cours
 * Day 1: Linear regression, gradient descent, introduction to linear algebra
 * Day 2: Logistic regression, regularisation, ROC curve, introduction to neural networks (NNs)
 * Day 3: NN backpropagation algorithm, convolutional neural networks explained
-* Day 4: NN backpropagation continued, K-means clustering
+* Day 4: NN backpropagation continued, K-means clustering, hierarchical clustering, talk by a biomedical deep learning researcher
 * Day 5: Problems with high-dimensional data, Principal Component Analysis (PCA)
 * Day 6: Working with scikit-learn, introduction to Keras and TensorFlow, project introduction and start
 
